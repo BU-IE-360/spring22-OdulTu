@@ -6,4 +6,6 @@
 
 
 [link](https://moodle.boun.edu.tr/login/)
+
+
 [link](ödül tüfekçi-ie-360hw2-html.html)
